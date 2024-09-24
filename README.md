@@ -6,7 +6,7 @@ This project is a frontend application developed using Next.js and TypeScript fo
 
 ## Deployment
 
-The live version of this project is deployed at:
+The live version of this project is deployed at: march-assesment.vercel.app
 
 ## Features
 
